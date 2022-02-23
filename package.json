@@ -1,0 +1,9 @@
+{
+  "name": "pnpm-repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.14.0"
+  }
+}
